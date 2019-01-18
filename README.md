@@ -62,7 +62,14 @@ The website also has a clean and simple design stemming for the menu bar to the 
 
 
 ---
-## Site 5
+## Site 5 - Environment Canada
+- https://weather.gc.ca/city/pages/on-107_metric_e.html
+- Twitter. Weather warning showed up and I followed the link to the site.
+- The design is not current, Looks like it was created in 2010. The website is just not as modern looking as The Weather Channel's website.
+- It's a website for the Government of Canada so it has a bunch on links to Jobs, Immigration, etc. Everything is properly labeled and easy to find especially with the search-bar. But in order to get to Environment Canada you have to search it on a browser... Lame.
+- Everything but the pictures on this website are interactive.
+- The site is meant to be an informative website so I get why it is not completely modernized. Many Canadians use this site and would probably get lost if changes were made. This website is definitely useful.
+- One thing I would change about this site is the appearence. I looks outdated and it is just not appealing.
 
 
 
